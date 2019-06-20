@@ -1,7 +1,7 @@
-# Assignment1_RiyazhDholakia
-* Assignment 1 for Professor Ramya in Web Programming at Georgia State University
+# Assignment1_SujalPatel
+* Assignment 1 for Professor Henry in Web Programming at Georgia State University
 
-* **Riyazh Dholakia** - *Contributor* - [Riyazh Dholakia](https://github.com/riyazhdholakia)
+* **Sujal Patel** - *Contributor* - [Sujal Patel](https://github.com/spatel287)
 
 * index.html is the file where you should see my html page
 * style.css will the bring the page to "life" with colors and fonts
